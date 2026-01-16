@@ -1,3 +1,5 @@
+![Screenshot of AWS Project](https://raw.githubusercontent.com/Prajwal8651/aws-ebs-cost-optimizer/1aa38c405cf44710a9ae6782f76405c305c6c180/aws-ebs-cost-optimizer/Screenshot%202026-01-16%20170052.png)
+
 # AWS Cost Optimization: Automating Unused EBS Volume Cleanup with Lambda
 
 ## Overview
